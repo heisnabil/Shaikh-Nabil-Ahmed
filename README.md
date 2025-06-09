@@ -1,65 +1,58 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
- 
+  Nabil Ahmed - Portfolio Website 💻<br/>
+  <a href="https://heisnabil.vercel.app/" target="_blank">heisnabil.vercel.app</a>
 </h2>
 
+<div align="center">
+  <img alt="Demo" src="./Images/portfolio-demo.png" />
+</div>
 
 <br/>
 
-
 <h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+  🔹 <a href="https://github.com/heisnabil/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+  🔹 <a href="https://github.com/heisnabil/Portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+---
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+## 🚀 About Me
 
-## Built With
+🎓 I'm **Shaikh Nabil Ahmed**, currently pursuing **B.E in CSE - AIML** at AIKTC, Mumbai University (Batch 2023–2027).  
+🏆 First-year topper, winner of multiple hackathons including **CSMU Hackathon 2024**, and recipient of **academic excellence award** by Zahir Kazi Sir.  
+💼 Completed **internships in web development and AI/ML** domains.  
+💬 Passionate about AI projects, open-source, and tech that solves real-world problems.
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+---
 
-This project was built using these technologies.
+## 🛠 Tech Stack Used
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+This portfolio project was made using:
 
-## Features
+- ⚛️ React.js
+- 🖌️ CSS3 + React-Bootstrap
+- 📡 Node.js & Express.js (basic backend)
+- 🧠 VSCODE
+- ☁️ Vercel (for deployment)
 
-**📖 Multi-Page Layout**
+---
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+## ✨ Features
 
-**📱 Fully Responsive**
+- 📖 **Multi-page layout**
+- 🎨 **Fully customizable color theme**
+- 📱 **Responsive design** for all devices
+- 🔗 **Live GitHub project links**
+- 🧠 **Mini-project highlights** with real-world use cases
 
-## Getting Started
+---
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+## 🧑‍💻 Getting Started
 
-## 🛠 Installation and Setup Instructions
+Clone this repo and get started:
 
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+```bash
+git clone https://github.com/heisnabil/Portfolio.git
+cd Portfolio
+npm install
+npm start
